@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm César García
 
-<!--
-**cesarbritoo/cesarbritoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+Backend: Java, SQL (MySQL)
+Fronted: HTML, JavaScript (React, React-Native)
+Tools: Git, Docker (really basic skills)
+## 🌱 Currently Learning
+Improving my development skills
+Writing cleaner, more maintainable code
+Best practices for real-world projects
+## 🚀 What You’ll Find on My GitHub
+Academic projects from my studies
+Exercises and experiments while learning new concepts
+## 📌 Goals
+Continue learning and growing as a developer
+Gain more real-world experience
+Build projects that reflect my progress
+## 📫 Contact
+* LinkedIn: https://www.linkedin.com/in/guillermo-césar-garcía-brito-aa86a5311/
