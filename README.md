@@ -1,7 +1,8 @@
 # 👋 Hi, I'm César García
 
-## 👨‍💻 About Me
-
+### 👨‍💻 About Me
+I'm currently a second-year student in Multiplatform Application Development, committed to continuing my education and professional growth.
+I am eager to further develop my skills and deepen my knowledge within the field of programming.
 ## 🛠️ Technologies & Tools
 * Backend: Java, SQL (MySQL)
 * Fronted: HTML, JavaScript (React, React-Native)
